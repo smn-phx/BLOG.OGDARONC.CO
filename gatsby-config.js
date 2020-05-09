@@ -45,7 +45,7 @@ const plugins = [
       background_color: `#fff`,
       theme_color: `#333`,
       display: `minimal-ui`,
-      icon: `src/images/simple-icon.png`, // This path is relative to the root of the site.
+      icon: `src/images/IMG_0080 2.jpg`, // This path is relative to the root of the site.
     },
   },
   {
