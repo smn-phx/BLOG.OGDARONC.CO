@@ -11,8 +11,8 @@ const siteMetadata = {
       url: "https://www.instagram.com/smn_phx/",
     },
     {
-      name: "VERYNICE",
-      url: "https://verynice.blog",
+      name: "HOME",
+      url: "https://ogdaronc.co/about",
     },
   ],
 }
