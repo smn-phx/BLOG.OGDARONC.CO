@@ -12,7 +12,7 @@ const siteMetadata = {
     },
     {
       name: "HOME",
-      url: "https://ogdaronc.co/about",
+      url: "https://ogdaronc.co",
     },
   ],
 }
